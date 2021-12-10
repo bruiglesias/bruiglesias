@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bruiglesias/bruiglesias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +21,7 @@ Sou finalista de Engenharia de software pela Universidade Federal do Amazonas (U
 
 Aqui você vai encontrar materiais seja de projetos pessoais, pesquisas e estudos realizadas como por exemplo:
 
-  - Redes neurais artificiais usando Keras e TensorFlow
+  - U+1F9E0 Redes neurais artificiais usando Keras e TensorFlow
   - Algorítimos Genéticos
   - Modelos clássicos de classificação, regressão e agrupamento
   - Visão computacional e processamento digital de imagens com OpenCV
