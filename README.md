@@ -25,6 +25,13 @@ Aqui você vai encontrar materiais seja de projetos pessoais, pesquisas e estudo
   🧬 Algorítimos Genéticos <br/>
   📈 Modelos clássicos de classificação, regressão e agrupamento <br/>
   👁️‍🗨️ Visão computacional e processamento digital de imagens com OpenCV <br/>
- 	📊 Estatística aplicada ao aprendizado de máquina <br/>
+ 	📊 Estatística aplicada à analise de dados e aprendizado de máquina <br/>
   🤖 Robótica e navegação autônoma com ROS (robot operating system) <br/>
-  - Entre outros
+  👉 Entre outros
+
+### Artigos
+
+Iglesias, B.; Otani, M. and Oliveira, F. (2021). <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=5p4UpQR0YcY=&t=1">Glue Level Estimation through Automatic Visual Inspection in PCB Manufacturing</a>. In Proceedings of the 18th International Conference on Informatics in Control, Automation and Robotics - ICINCO, ISBN 978-989-758-522-7; ISSN 2184-2809, pages 731-738. DOI: 10.5220/0010540807310738
+
+
+
