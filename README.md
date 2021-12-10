@@ -21,10 +21,10 @@ Sou finalista de Engenharia de software pela Universidade Federal do Amazonas (U
 
 Aqui você vai encontrar materiais seja de projetos pessoais, pesquisas e estudos realizadas como por exemplo:
 
-  🧠 Redes neurais artificiais usando Keras e TensorFlow
-  🧬 Algorítimos Genéticos
-  📈 Modelos clássicos de classificação, regressão e agrupamento
-  👁️‍🗨️ Visão computacional e processamento digital de imagens com OpenCV
- 	📊 Estatística aplicada ao aprendizado de máquina
-  🤖 Robótica e navegação autônoma com ROS (robot operating system)
+  🧠 Redes neurais artificiais usando Keras e TensorFlow <br/>
+  🧬 Algorítimos Genéticos <br/>
+  📈 Modelos clássicos de classificação, regressão e agrupamento <br/>
+  👁️‍🗨️ Visão computacional e processamento digital de imagens com OpenCV <br/>
+ 	📊 Estatística aplicada ao aprendizado de máquina <br/>
+  🤖 Robótica e navegação autônoma com ROS (robot operating system) <br/>
   - Entre outros
