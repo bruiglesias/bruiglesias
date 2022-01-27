@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 E-mail: bruno.iglesias.eng@gmail.com
 
-Sou finalista de Engenharia de software pela Universidade Federal do Amazonas (UFAM) e atuo profissionalmente na área de pesquisa e desenvolvimento de tecnologias na área de inteligência artificial, visão de máquina, robótica e navegação autônoma utilizando python como principal linguagem.
+Sou finalista de Engenharia de software pela Universidade Federal do Amazonas (UFAM) e em paralelo sou bacharelando em Matemática pela Faculdade Estácio, atuo profissionalmente na área de pesquisa e desenvolvimento de tecnologias na área de inteligência artificial, visão de máquina, robótica e navegação autônoma utilizando python como principal linguagem.
 
 Aqui você vai encontrar materiais de projetos pessoais, pesquisas e estudos realizadas como por exemplo:
 
