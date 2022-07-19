@@ -19,7 +19,7 @@ E-mail: bruno.iglesias.eng@gmail.com
 
 Sou finalista de Engenharia de software pela Universidade Federal do Amazonas (UFAM) e em paralelo estou bacharelando Matemática na Faculdade Estácio, atuo profissionalmente na área de pesquisa e desenvolvimento de tecnologias na área de inteligência artificial, visão de máquina, robótica e navegação autônoma utilizando python como principal linguagem.
 
-Aqui você vai encontrar materiais de projetos pessoais, pesquisas e estudos realizadas como por exemplo:
+Aqui você vai encontrar materiais de projetos pessoais, pesquisas e estudos realizadaos, por exemplo:
 
   🧠 Redes neurais artificiais usando Keras e TensorFlow <br/>
   🧬 Algorítimos Genéticos <br/>
