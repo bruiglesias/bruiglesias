@@ -29,7 +29,7 @@ Aqui você vai encontrar materiais de projetos pessoais, pesquisas e estudos rea
   🤖 Robótica e navegação autônoma com ROS (robot operating system) <br/>
   👉 Entre outros
 
-### Em evidência
+### Méritos
 
 🏅 <a href="https://www.ufam.edu.br/ultimas-noticias/2267-equipe-do-icet-e-classificada-para-proxima-fase-de-competicao-internacional-de-inteligencia-artificial.html">Equipe do ICET é classificada para próxima fase de competição internacional de Inteligência Artificial</a> 
 
