@@ -33,7 +33,7 @@ Here you will find materials from personal projects, research and studies carrie
   👉 And More
   
 ### Languages
-My English is always in progress.
+My English is always in progress. I can read, write, listen and understand, but I haven't had many opportunities to practice speaking.
  
 ### Merits
 
