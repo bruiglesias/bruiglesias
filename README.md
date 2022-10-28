@@ -13,29 +13,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá, eu sou Bruno Iglesias 👋
+### Hi, I'm Bruno Iglesias. 👋
 
 E-mail: bruno.iglesias.eng@gmail.com
 
-Sou finalista de Engenharia de software pela Universidade Federal do Amazonas (UFAM) e em paralelo estou bacharelando Matemática na Faculdade Estácio, atuo profissionalmente na área de pesquisa e desenvolvimento de tecnologias na área de inteligência artificial, visão de máquina, robótica e navegação autônoma utilizando python como principal linguagem.
 
-Aqui você vai encontrar materiais de projetos pessoais, pesquisas e estudos realizadaos, por exemplo:
 
-  🧠 Redes neurais artificiais usando Keras e TensorFlow <br/>
-  🧬 Algorítimos Genéticos <br/>
-  📈 Modelos clássicos de classificação, regressão e agrupamento <br/>
-  👁️‍🗨️ Visão computacional e processamento digital de imagens com OpenCV <br/>
- 	📊 Estatística aplicada à analise de dados e aprendizado de máquina <br/>
-  🤖 Robótica e navegação autônoma com ROS (robot operating system) <br/>
-  👉 Entre outros
+I am a finalist in Software Engineering at the Federal University of Amazonas (UFAM) and in parallel I am studying Mathematics at Faculdade Estácio, I work professionally in the area of research and development of technologies in the area of artificial intelligence, machine vision, robotics and autonomous navigation using python as the main language.
 
-### Méritos
+Here you will find materials from personal projects, research and studies carried out, for example:
+
+
+  🧠 Artificial neural networks using Keras and TensorFlow <br/>
+  🧬 Genetic Algorithms <br/>
+  📈 Classic models for classification, regression and grouping<br/>
+  👁️‍🗨️ Computer vision and digital image processing with OpenCV<br/>
+ 	📊 Statistics applied to data analysis and machine learning <br/>
+  🤖 Robotics and autonomous navigation with ROS (robot operating system) <br/>
+  👉 And More
+  
+### Languages
+My English is always in progress.
+ 
+### Merits
 
 🏅 <a href="https://www.ufam.edu.br/ultimas-noticias/2267-equipe-do-icet-e-classificada-para-proxima-fase-de-competicao-internacional-de-inteligencia-artificial.html">Equipe do ICET é classificada para próxima fase de competição internacional de Inteligência Artificial</a> 
 
-### Artigos científicos
+English: ICET team is classified for next stage of international competition of Artificial Intelligence
+
+### Scientific articles
 
 Iglesias, B.; Otani, M. and Oliveira, F. (2021). <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=5p4UpQR0YcY=&t=1">Glue Level Estimation through Automatic Visual Inspection in PCB Manufacturing</a>. In Proceedings of the 18th International Conference on Informatics in Control, Automation and Robotics - ICINCO, ISBN 978-989-758-522-7; ISSN 2184-2809, pages 731-738. DOI: 10.5220/0010540807310738
 
-### Seja bem-vindo
+### Be welcome.
 <img src="https://github.com/bruiglesias/bruiglesias/blob/main/vis%C3%A3o%20computacional%402x%20(2).png" />
