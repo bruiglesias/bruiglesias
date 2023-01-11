@@ -19,7 +19,7 @@ E-mail: bruno.iglesias.eng@gmail.com
 
 
 
-I am a finalist in Software Engineering at the Federal University of Amazonas (UFAM) and in parallel I am studying Mathematics at Faculdade Estácio, I work professionally in the area of research and development of technologies in the area of artificial intelligence, machine vision, robotics and autonomous navigation using python as the main language.
+I am a finalist in Software Engineering at the Federal University of Amazonas (UFAM) and at the same time I am studying Mathematics at Estácio College, I work professionally in the area of research and development of artificial intelligence technologies, machine vision, robotics and autonomous navigation using python as the main language .
 
 Here you will find materials from personal projects, research and studies carried out, for example:
 
