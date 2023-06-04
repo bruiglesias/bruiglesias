@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 E-mail: bruno.iglesias.eng@gmail.com
 
 
-
-I am a software engineer graduated from the Federal University of Amazonas (UFAM) and at the same time I am studying Mathematics at Estácio College, I work professionally in the area of research and development of artificial intelligence technologies, machine vision, robotics and autonomous navigation using python as the main language .
+I have a bachelor's degree in software engineering from the Federal University of Amazonas (UFAM) and I'm a student of the bachelor's degree in Mathematics at Estácio College, I work professionally in the area of research and development of artificial intelligence technologies, machine vision, robotics and autonomous navigation using python as main language.
 
 Here you will find materials from personal projects, research and studies carried out, for example:
 
