@@ -38,7 +38,7 @@ My English is always in progress. I can read, write, listen and understand, but 
 
 🏅 <a href="https://www.ufam.edu.br/ultimas-noticias/2267-equipe-do-icet-e-classificada-para-proxima-fase-de-competicao-internacional-de-inteligencia-artificial.html">Equipe do ICET é classificada para próxima fase de competição internacional de Inteligência Artificial</a> 
 
-English: ICET team is classified for next stage of international competition of Artificial Intelligence
+In English: ICET team is classified for next stage of international competition of Artificial Intelligence
 
 ### Scientific articles
 
