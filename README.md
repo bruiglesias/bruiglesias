@@ -42,11 +42,17 @@ In English: ICET team is classified for next stage of international competition 
 
 ### Scientific articles
 
+<b> Machine Learning Pepers </b>
+
 Iglesias, B.; Otani, M. and Oliveira, F. (2021). <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=5p4UpQR0YcY=&t=1">Glue Level Estimation through Automatic Visual Inspection in PCB Manufacturing</a>. In Proceedings of the 18th International Conference on Informatics in Control, Automation and Robotics - ICINCO, ISBN 978-989-758-522-7; ISSN 2184-2809, pages 731-738. DOI: 10.5220/0010540807310738
+
+<b> Data Science Pepers </b>
 
 Neto, E.; Lima, J. and Iglesias, B. (2023). <a href="">Study of the Vegetation Index in the Alter do Chão Environmental Protection Area Using Cloud Tools</a>. In Proceedings of the Amazon International Conference on Public Policy and Data Science. (recently published) 
 
 Neto, E.; Lima, J. and Iglesias, B. (2023). <a href="">Study of Hot Spots in the Alter do Chão Environmental Protection Area Based on Open Data</a>. In Proceedings of the Amazon International Conference on Public Policy and Data Science. (recently published) 
+
+Neto, E.; Reis, L.; Lima, J. and Iglesias, B. (2023). <a href="">Study of the temporal and spatial dynamics of fire hotspots in Tefé National Forest based on open data </a>. In Proceedings of the 19th Symposium on Conservation and Participatory Management in the Amazon. (recently published) 
 
 ### Be welcome.
 <img src="https://github.com/bruiglesias/bruiglesias/blob/main/vis%C3%A3o%20computacional%402x%20(2).png" />
