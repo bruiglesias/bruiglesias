@@ -48,9 +48,9 @@ Iglesias, B.; Otani, M. and Oliveira, F. (2021). <a href="https://www.scitepress
 
 <b> Data Science Pepers </b>
 
-Neto, E.; Lima, J. and Iglesias, B. (2023). <a href="">Study of the Vegetation Index in the Alter do Chão Environmental Protection Area Using Cloud Tools</a>. In Proceedings of the Amazon International Conference on Public Policy and Data Science. (recently published) 
+Neto, E.; Lima, J. and Iglesias, B. (2023). <a href="https://proceedings.science/cippcdam-2023/trabalhos/study-of-the-vegetation-index-in-the-alter-do-chao-environmental-protection-area?lang=pt-br">Study of the Vegetation Index in the Alter do Chão Environmental Protection Area Using Cloud Tools</a>. In Proceedings of the Amazon International Conference on Public Policy and Data Science. (recently published) 
 
-Neto, E.; Lima, J. and Iglesias, B. (2023). <a href="">Study of Hot Spots in the Alter do Chão Environmental Protection Area Based on Open Data</a>. In Proceedings of the Amazon International Conference on Public Policy and Data Science. (recently published) 
+Neto, E.; Lima, J. and Iglesias, B. (2023). <a href="https://proceedings.science/cippcdam-2023/trabalhos/study-of-hot-spots-in-the-alter-do-chao-environmental-protection-area-based-on-o?lang=pt-br">Study of Hot Spots in the Alter do Chão Environmental Protection Area Based on Open Data</a>. In Proceedings of the Amazon International Conference on Public Policy and Data Science. (recently published) 
 
 Neto, E.; Reis, L.; Lima, J. and Iglesias, B. (2023). <a href="">Study of the temporal and spatial dynamics of fire hotspots in Tefé National Forest based on open data </a>. In Proceedings of the 19th Symposium on Conservation and Participatory Management in the Amazon. (recently published) 
 
