@@ -44,7 +44,7 @@ In English: ICET team is classified for next stage of international competition 
 
 <b> Machine Learning Pepers </b>
 
-Lima, J. and Iglesias, B. (2024). <a href="https://www.ijerd.com/paper/vol20-issue6/20061522.pdf"> Addressed the problem of positive reviews using negative words in sentiment analysis with BERT </a>. Published in the International Journal of Engineering Research and Development- IJERD. e-ISSN: 2278-067X, p-ISSN: 2278-800X,Volume 21, Issue 6 (JUN. 2024). (recently accepted for publication)
+Lima, J. and Iglesias, B. (2024). <a href="https://www.ijerd.com/paper/vol20-issue6/20061522.pdf"> Addressed the problem of positive reviews using negative words in sentiment analysis with BERT </a>. Published in the International Journal of Engineering Research and Development- IJERD. e-ISSN: 2278-067X, p-ISSN: 2278-800X,Volume 20, Issue 6 (JUN. 2024). (recently accepted for publication)
 
 Iglesias, B.; Otani, M. and Oliveira, F. (2021). <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=5p4UpQR0YcY=&t=1">Glue Level Estimation through Automatic Visual Inspection in PCB Manufacturing</a>. In Proceedings of the 18th International Conference on Informatics in Control, Automation and Robotics - ICINCO, ISBN 978-989-758-522-7; ISSN 2184-2809, pages 731-738. DOI: 10.5220/0010540807310738
 
