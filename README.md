@@ -24,12 +24,12 @@ Here you will find materials from personal projects, research and studies carrie
 
 
   🧠 Artificial neural networks using Keras and TensorFlow <br/>
+  💬 LLMs using langchaing, hunggingface and RAG techniques<br/>
   🧬 Genetic Algorithms <br/>
   📈 Classic models for classification, regression and grouping<br/>
   👁️‍🗨️ Computer vision and digital image processing with OpenCV<br/>
  	📊 Statistics applied to data analysis and machine learning <br/>
   🤖 Robotics and autonomous navigation with ROS (robot operating system) <br/>
-  💬 LLMs using langchaing, hunggingface and RAG techniques<br/>
   👉 And More
   
 ### Languages
