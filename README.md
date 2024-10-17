@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 E-mail: bruno.iglesias.eng@gmail.com
 
 
-I have a bachelor's degree in software engineering from the Federal University of Amazonas (UFAM) and I'm a student of the bachelor's degree in Mathematics at Estácio College, I work professionally in the area of research and development of artificial intelligence technologies, machine vision, robotics and autonomous navigation using python as main language.
+I have a bachelor's degree in software engineering from the Federal University of Amazonas (UFAM) and I'm a student of the bachelor's degree in Mathematics at Estácio College (Distance learning), I work professionally in the area of research and development of artificial intelligence technologies, machine vision, robotics and autonomous navigation using python as main language.
 
 Here you will find materials from personal projects, research and studies carried out, for example:
 
@@ -29,6 +29,7 @@ Here you will find materials from personal projects, research and studies carrie
   👁️‍🗨️ Computer vision and digital image processing with OpenCV<br/>
  	📊 Statistics applied to data analysis and machine learning <br/>
   🤖 Robotics and autonomous navigation with ROS (robot operating system) <br/>
+  💬 LLMs using langchaing, hunggingface and RAG techniques<br/>
   👉 And More
   
 ### Languages
