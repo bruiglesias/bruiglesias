@@ -43,13 +43,13 @@ In English: ICET team is classified for next stage of international competition 
 
 ### Scientific articles
 
-<b> Machine Learning Pepers </b>
+<b> Machine Learning Papers </b>
 
 Iglesias, B and Lima, J. (2024). <a href="https://www.ijerd.com/paper/vol20-issue6/20061522.pdf"> Addressed the problem of positive reviews using negative words in sentiment analysis with BERT </a>. Published in the International Journal of Engineering Research and Development- IJERD. e-ISSN: 2278-067X, p-ISSN: 2278-800X,Volume 20, Issue 6 (JUN. 2024).
 
 Iglesias, B.; Otani, M. and Oliveira, F. (2021). <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=5p4UpQR0YcY=&t=1">Glue Level Estimation through Automatic Visual Inspection in PCB Manufacturing</a>. In Proceedings of the 18th International Conference on Informatics in Control, Automation and Robotics - ICINCO, ISBN 978-989-758-522-7; ISSN 2184-2809, pages 731-738. DOI: 10.5220/0010540807310738
 
-<b> Data Science Pepers </b>
+<b> Data Science Papers </b>
 
 Neto, E.; Lima, J. and Iglesias, B. (2023). <a href="https://proceedings.science/cippcdam-2023/trabalhos/study-of-the-vegetation-index-in-the-alter-do-chao-environmental-protection-area?lang=pt-br">Study of the Vegetation Index in the Alter do Chão Environmental Protection Area Using Cloud Tools</a>. In Proceedings of the Amazon International Conference on Public Policy and Data Science. ISBN: 978-65-89463-43-6. 
 
